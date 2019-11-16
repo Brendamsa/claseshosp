@@ -1,0 +1,11 @@
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\bin\Debug\Cama.exe.config
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\bin\Debug\Cama.exe
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\bin\Debug\Cama.pdb
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.csprojResolveAssemblyReference.cache
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.Form1.resources
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.Properties.Resources.resources
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.csproj.GenerateResource.Cache
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.exe
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\obj\Debug\Cama.pdb
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\bin\Debug\ClassHosp.dll
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\Cama\bin\Debug\ClassHosp.pdb

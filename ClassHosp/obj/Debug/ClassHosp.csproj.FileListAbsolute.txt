@@ -1,0 +1,7 @@
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\bin\Debug\ClassHosp.dll
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\bin\Debug\ClassHosp.pdb
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\obj\Debug\ClassHosp.UserControl1.resources
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\obj\Debug\ClassHosp.csproj.GenerateResource.Cache
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\obj\Debug\ClassHosp.dll
+C:\Users\Brenda\documents\visual studio 2015\Projects\ClassHosp\ClassHosp\obj\Debug\ClassHosp.pdb
+C:\Users\Brenda\Documents\Visual Studio 2015\Projects\ClassHosp\ClassHosp\obj\Debug\ClassHosp.csprojResolveAssemblyReference.cache
